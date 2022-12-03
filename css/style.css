@@ -69,9 +69,12 @@ header .navbar-nav > .nav-item {
 #span-item{
     
     display: flex;
-    padding: 150px;
-    
+
     margin-right: 20px;
+}
+#opp .h6{
+    text-align: right;
+
 }
 .true{
     text-align: center;
@@ -322,6 +325,15 @@ header .navbar-nav > .nav-item {
     text-transform: uppercase;
     vertical-align: middle;
     background-color: #fff;
+ }
+
+ .no{
+    text-align: right;
+    margin-left: 50rem;
+ }
+ .no-1{
+    text-align: right;
+    margin-left: 5rem;
  }
   
 
