@@ -335,7 +335,40 @@ header .navbar-nav > .nav-item {
     text-align: right;
     margin-left: 5rem;
  }
-  
+ .iop{
+    text-align: center;
+ }
+ .row align-items-start{
+    padding-right: 5px;
+ }
+
+ .WHAT{
+    text-align: center;
+    margin-top: 20px;
+}
+.m1{
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.img{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+#www
+ {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.p {
+    padding-right: 30px !important;
+
+}
 
    
 
